@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/mssql/server
+FROM mcr.microsoft.com/azure-sql-edge
 
 # Switch to root user for access to apt-get install
 USER root
